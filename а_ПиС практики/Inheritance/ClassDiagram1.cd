@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Inheritance.Geometry.Virtual.Body" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Virtual\VirtualTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance.Geometry.Virtual.Ball">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Virtual\VirtualTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance.Geometry.Virtual.RectangularCuboid">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAgAAAAAIAAAAAAABAAABA=</HashCode>
+      <FileName>Virtual\VirtualTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance.Geometry.Virtual.Cylinder">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAgAAgAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Virtual\VirtualTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance.Geometry.Virtual.CompoundBody">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Virtual\VirtualTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance.Geometry.Virtual.Vector3Extended">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAECAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Virtual\VirtualTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

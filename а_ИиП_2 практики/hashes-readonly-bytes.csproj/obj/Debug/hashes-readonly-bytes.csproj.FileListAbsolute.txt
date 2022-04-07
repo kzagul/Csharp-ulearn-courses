@@ -1,0 +1,2 @@
+/Users/zagulkirill/Desktop/hashes-readonly-bytes.csproj/obj/Debug/hashes-readonly-bytes.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/hashes-readonly-bytes.csproj/obj/Debug/hashes-readonly-bytes.csproj.CoreCompileInputs.cache

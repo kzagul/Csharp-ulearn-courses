@@ -1,0 +1,10 @@
+/Users/zagulkirill/Desktop/Inheritance/bin/Debug/Inheritance.MapObjects.exe.config
+/Users/zagulkirill/Desktop/Inheritance/bin/Debug/Inheritance.MapObjects.exe
+/Users/zagulkirill/Desktop/Inheritance/bin/Debug/Inheritance.MapObjects.pdb
+/Users/zagulkirill/Desktop/Inheritance/bin/Debug/nunit.framework.dll
+/Users/zagulkirill/Desktop/Inheritance/bin/Debug/nunitlite.dll
+/Users/zagulkirill/Desktop/Inheritance/obj/Debug/Inheritance.MapObjects.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/Inheritance/obj/Debug/Inheritance.MapObjects.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Desktop/Inheritance/obj/Debug/Inheritance.MapObjects.csproj.CopyComplete
+/Users/zagulkirill/Desktop/Inheritance/obj/Debug/Inheritance.MapObjects.exe
+/Users/zagulkirill/Desktop/Inheritance/obj/Debug/Inheritance.MapObjects.pdb

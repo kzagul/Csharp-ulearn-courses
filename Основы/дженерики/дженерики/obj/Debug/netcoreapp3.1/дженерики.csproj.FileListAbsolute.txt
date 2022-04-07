@@ -1,0 +1,12 @@
+/Users/zagulkirill/Desktop/c#/дженерики/дженерики/bin/Debug/netcoreapp3.1/дженерики.deps.json
+/Users/zagulkirill/Desktop/c#/дженерики/дженерики/bin/Debug/netcoreapp3.1/дженерики.runtimeconfig.json
+/Users/zagulkirill/Desktop/c#/дженерики/дженерики/bin/Debug/netcoreapp3.1/дженерики.runtimeconfig.dev.json
+/Users/zagulkirill/Desktop/c#/дженерики/дженерики/bin/Debug/netcoreapp3.1/дженерики.dll
+/Users/zagulkirill/Desktop/c#/дженерики/дженерики/bin/Debug/netcoreapp3.1/дженерики.pdb
+/Users/zagulkirill/Desktop/c#/дженерики/дженерики/obj/Debug/netcoreapp3.1/дженерики.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/c#/дженерики/дженерики/obj/Debug/netcoreapp3.1/дженерики.AssemblyInfoInputs.cache
+/Users/zagulkirill/Desktop/c#/дженерики/дженерики/obj/Debug/netcoreapp3.1/дженерики.AssemblyInfo.cs
+/Users/zagulkirill/Desktop/c#/дженерики/дженерики/obj/Debug/netcoreapp3.1/дженерики.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Desktop/c#/дженерики/дженерики/obj/Debug/netcoreapp3.1/дженерики.dll
+/Users/zagulkirill/Desktop/c#/дженерики/дженерики/obj/Debug/netcoreapp3.1/дженерики.pdb
+/Users/zagulkirill/Desktop/c#/дженерики/дженерики/obj/Debug/netcoreapp3.1/дженерики.genruntimeconfig.cache

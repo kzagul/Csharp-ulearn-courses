@@ -1,0 +1,91 @@
+﻿using System;
+
+namespace Expr5
+{
+    class Program
+    {
+        /*public int Mid(a, b)
+        {
+            int a, b;
+            int bolee_x, menee_x;
+
+            if (a <= b)
+            {
+                bolee_x = b;
+                menee_x = a;
+            }
+            else
+            {
+                bolee_x = a;
+                menee_x = b;
+            }
+
+            return 
+        }*/
+
+
+        static void Main(string[] args)
+        {
+            // Посчитать расстояние от точки до прямой,
+            // заданной двумя разными точками.
+
+            Console.WriteLine("Координаты A: ");
+            Console.WriteLine("x: ");
+            int x1 = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("y: ");
+            int y1 = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Координаты B: ");
+            Console.WriteLine("x: ");
+            int x2 = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("y: ");
+            int y2 = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Координаты точки: ");
+            Console.WriteLine("x: ");
+            int x3 = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("y: ");
+            int y3 = Int32.Parse(Console.ReadLine());
+
+
+            int bolee_x, menee_x;
+            int bolee_y, menee_y;
+
+            if (x1 <= x2)
+            {
+                bolee_x = x2;
+                menee_x = x1;
+            }
+            else
+            {
+                bolee_x = x1;
+                menee_x = x2;
+            }
+
+            if (y1 <= y2)
+            {
+                bolee_y = y2;
+                menee_y = y1;
+            }
+            else
+            {
+                bolee_y = y1;
+                menee_y = y2;
+            }
+
+
+
+            int res;
+            int mid_x, mid_y;
+
+            mid_x = bolee_x - ((bolee_x - menee_x)/2);
+            mid_y = bolee_y - ((bolee_y - menee_y)/2);
+
+
+
+
+
+
+        }
+    }
+}

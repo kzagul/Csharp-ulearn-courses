@@ -1,0 +1,34 @@
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\obj\Debug\Incapsulation.Failures.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\obj\Debug\Incapsulation.Failures.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\bin\Debug\ReportMaker.cs
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\bin\Debug\NUnit3.TestAdapter.dll
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\bin\Debug\NUnit3.TestAdapter.pdb
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\bin\Debug\nunit.engine.dll
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\bin\Debug\nunit.engine.api.dll
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\bin\Debug\nunit.engine.core.dll
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\bin\Debug\Incapsulation.Failures.exe.config
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\bin\Debug\Incapsulation.Failures.exe
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\bin\Debug\Incapsulation.Failures.pdb
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\bin\Debug\nunitlite.dll
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\bin\Debug\nunit.framework.xml
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\obj\Debug\Incapsulation.Failures.exe
+\\Mac\Home\Desktop\Incapsulation.Failures 2.csproj\obj\Debug\Incapsulation.Failures.pdb
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\bin\Debug\NUnit3.TestAdapter.dll
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\bin\Debug\NUnit3.TestAdapter.pdb
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\bin\Debug\nunit.engine.dll
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\bin\Debug\nunit.engine.api.dll
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\bin\Debug\nunit.engine.core.dll
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\bin\Debug\ReportMaker.cs
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\bin\Debug\Incapsulation.Failures.exe.config
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\bin\Debug\Incapsulation.Failures.exe
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\bin\Debug\Incapsulation.Failures.pdb
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\bin\Debug\nunitlite.dll
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\bin\Debug\nunit.framework.xml
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\obj\Debug\Incapsulation.Failures.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\obj\Debug\Incapsulation.Failures.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\obj\Debug\Incapsulation.Failures.exe
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Failures 2.csproj\obj\Debug\Incapsulation.Failures.pdb

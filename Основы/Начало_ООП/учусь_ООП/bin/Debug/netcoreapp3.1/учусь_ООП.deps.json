@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "учусь_ООП/1.0.0": {
+        "runtime": {
+          "учусь_ООП.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "учусь_ООП/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

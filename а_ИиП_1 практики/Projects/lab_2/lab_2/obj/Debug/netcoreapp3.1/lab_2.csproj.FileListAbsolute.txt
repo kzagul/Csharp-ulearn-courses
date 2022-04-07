@@ -1,0 +1,12 @@
+/Users/zagulkirill/Projects/lab_2/lab_2/bin/Debug/netcoreapp3.1/lab_2.deps.json
+/Users/zagulkirill/Projects/lab_2/lab_2/bin/Debug/netcoreapp3.1/lab_2.runtimeconfig.json
+/Users/zagulkirill/Projects/lab_2/lab_2/bin/Debug/netcoreapp3.1/lab_2.runtimeconfig.dev.json
+/Users/zagulkirill/Projects/lab_2/lab_2/bin/Debug/netcoreapp3.1/lab_2.dll
+/Users/zagulkirill/Projects/lab_2/lab_2/bin/Debug/netcoreapp3.1/lab_2.pdb
+/Users/zagulkirill/Projects/lab_2/lab_2/obj/Debug/netcoreapp3.1/lab_2.csprojAssemblyReference.cache
+/Users/zagulkirill/Projects/lab_2/lab_2/obj/Debug/netcoreapp3.1/lab_2.AssemblyInfoInputs.cache
+/Users/zagulkirill/Projects/lab_2/lab_2/obj/Debug/netcoreapp3.1/lab_2.AssemblyInfo.cs
+/Users/zagulkirill/Projects/lab_2/lab_2/obj/Debug/netcoreapp3.1/lab_2.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Projects/lab_2/lab_2/obj/Debug/netcoreapp3.1/lab_2.dll
+/Users/zagulkirill/Projects/lab_2/lab_2/obj/Debug/netcoreapp3.1/lab_2.pdb
+/Users/zagulkirill/Projects/lab_2/lab_2/obj/Debug/netcoreapp3.1/lab_2.genruntimeconfig.cache

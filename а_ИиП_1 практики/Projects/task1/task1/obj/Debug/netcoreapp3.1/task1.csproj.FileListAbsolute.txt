@@ -1,0 +1,12 @@
+/Users/zagulkirill/Projects/task1/task1/bin/Debug/netcoreapp3.1/task1.deps.json
+/Users/zagulkirill/Projects/task1/task1/bin/Debug/netcoreapp3.1/task1.runtimeconfig.json
+/Users/zagulkirill/Projects/task1/task1/bin/Debug/netcoreapp3.1/task1.runtimeconfig.dev.json
+/Users/zagulkirill/Projects/task1/task1/bin/Debug/netcoreapp3.1/task1.dll
+/Users/zagulkirill/Projects/task1/task1/bin/Debug/netcoreapp3.1/task1.pdb
+/Users/zagulkirill/Projects/task1/task1/obj/Debug/netcoreapp3.1/task1.csprojAssemblyReference.cache
+/Users/zagulkirill/Projects/task1/task1/obj/Debug/netcoreapp3.1/task1.AssemblyInfoInputs.cache
+/Users/zagulkirill/Projects/task1/task1/obj/Debug/netcoreapp3.1/task1.AssemblyInfo.cs
+/Users/zagulkirill/Projects/task1/task1/obj/Debug/netcoreapp3.1/task1.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Projects/task1/task1/obj/Debug/netcoreapp3.1/task1.dll
+/Users/zagulkirill/Projects/task1/task1/obj/Debug/netcoreapp3.1/task1.pdb
+/Users/zagulkirill/Projects/task1/task1/obj/Debug/netcoreapp3.1/task1.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\Rivals\bin\Debug\Dungeons\Dungeon1.txt
+\\Mac\Home\Desktop\Rivals\bin\Debug\Dungeons\Dungeon2.txt
+\\Mac\Home\Desktop\Rivals\bin\Debug\Dungeons\Dungeon3.txt
+\\Mac\Home\Desktop\Rivals\bin\Debug\Dungeons\Dungeon4.txt
+\\Mac\Home\Desktop\Rivals\bin\Debug\Rivals.exe.config
+\\Mac\Home\Desktop\Rivals\bin\Debug\Rivals.exe
+\\Mac\Home\Desktop\Rivals\bin\Debug\Rivals.pdb
+\\Mac\Home\Desktop\Rivals\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\Rivals\obj\Debug\Rivals.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Rivals\obj\Debug\Rivals.Properties.Resources.resources
+\\Mac\Home\Desktop\Rivals\obj\Debug\Rivals.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Rivals\obj\Debug\Rivals.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Rivals\obj\Debug\Rivals.csproj.CopyComplete
+\\Mac\Home\Desktop\Rivals\obj\Debug\Rivals.exe
+\\Mac\Home\Desktop\Rivals\obj\Debug\Rivals.pdb

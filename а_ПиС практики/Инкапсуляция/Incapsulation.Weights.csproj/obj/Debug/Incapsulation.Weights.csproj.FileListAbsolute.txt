@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\NUnit3.TestAdapter.dll
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\NUnit3.TestAdapter.pdb
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\nunit.engine.dll
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\nunit.engine.api.dll
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\nunit.engine.core.dll
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.exe.config
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.exe
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.pdb
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\nunitlite.dll
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\bin\Debug\nunit.framework.xml
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.CopyComplete
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.exe
+\\Mac\Home\Desktop\c#\а_ПиС практики\Инкапсуляция\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.pdb

@@ -1,0 +1,12 @@
+/Users/zagulkirill/Desktop/c#/Lists/Lists/bin/Debug/netcoreapp3.1/Lists.deps.json
+/Users/zagulkirill/Desktop/c#/Lists/Lists/bin/Debug/netcoreapp3.1/Lists.runtimeconfig.json
+/Users/zagulkirill/Desktop/c#/Lists/Lists/bin/Debug/netcoreapp3.1/Lists.runtimeconfig.dev.json
+/Users/zagulkirill/Desktop/c#/Lists/Lists/bin/Debug/netcoreapp3.1/Lists.dll
+/Users/zagulkirill/Desktop/c#/Lists/Lists/bin/Debug/netcoreapp3.1/Lists.pdb
+/Users/zagulkirill/Desktop/c#/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/c#/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.AssemblyInfoInputs.cache
+/Users/zagulkirill/Desktop/c#/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.AssemblyInfo.cs
+/Users/zagulkirill/Desktop/c#/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Desktop/c#/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.dll
+/Users/zagulkirill/Desktop/c#/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.pdb
+/Users/zagulkirill/Desktop/c#/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.genruntimeconfig.cache

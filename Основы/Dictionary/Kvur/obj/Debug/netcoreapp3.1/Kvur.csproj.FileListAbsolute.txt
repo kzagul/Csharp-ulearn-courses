@@ -1,0 +1,9 @@
+/Users/zagulkirill/Desktop/c#/Dictionary/Kvur/bin/Debug/netcoreapp3.1/Kvur.deps.json
+/Users/zagulkirill/Desktop/c#/Dictionary/Kvur/bin/Debug/netcoreapp3.1/Kvur.dll
+/Users/zagulkirill/Desktop/c#/Dictionary/Kvur/bin/Debug/netcoreapp3.1/Kvur.pdb
+/Users/zagulkirill/Desktop/c#/Dictionary/Kvur/obj/Debug/netcoreapp3.1/Kvur.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/c#/Dictionary/Kvur/obj/Debug/netcoreapp3.1/Kvur.AssemblyInfoInputs.cache
+/Users/zagulkirill/Desktop/c#/Dictionary/Kvur/obj/Debug/netcoreapp3.1/Kvur.AssemblyInfo.cs
+/Users/zagulkirill/Desktop/c#/Dictionary/Kvur/obj/Debug/netcoreapp3.1/Kvur.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Desktop/c#/Dictionary/Kvur/obj/Debug/netcoreapp3.1/Kvur.dll
+/Users/zagulkirill/Desktop/c#/Dictionary/Kvur/obj/Debug/netcoreapp3.1/Kvur.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Многопоточное_программирование", "Многопоточное_программирование\Многопоточное_программирование.csproj", "{B3A8D52D-9979-44EA-954E-CE283D1E22AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A8D52D-9979-44EA-954E-CE283D1E22AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A8D52D-9979-44EA-954E-CE283D1E22AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A8D52D-9979-44EA-954E-CE283D1E22AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A8D52D-9979-44EA-954E-CE283D1E22AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88C46612-1052-4290-B155-37CCC650D69A}
+	EndGlobalSection
+EndGlobal

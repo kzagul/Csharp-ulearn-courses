@@ -1,0 +1,12 @@
+/Users/zagulkirill/Projects/rec_tree/rec_tree/bin/Debug/netcoreapp3.1/rec_tree.deps.json
+/Users/zagulkirill/Projects/rec_tree/rec_tree/bin/Debug/netcoreapp3.1/rec_tree.runtimeconfig.json
+/Users/zagulkirill/Projects/rec_tree/rec_tree/bin/Debug/netcoreapp3.1/rec_tree.runtimeconfig.dev.json
+/Users/zagulkirill/Projects/rec_tree/rec_tree/bin/Debug/netcoreapp3.1/rec_tree.dll
+/Users/zagulkirill/Projects/rec_tree/rec_tree/bin/Debug/netcoreapp3.1/rec_tree.pdb
+/Users/zagulkirill/Projects/rec_tree/rec_tree/obj/Debug/netcoreapp3.1/rec_tree.csprojAssemblyReference.cache
+/Users/zagulkirill/Projects/rec_tree/rec_tree/obj/Debug/netcoreapp3.1/rec_tree.AssemblyInfoInputs.cache
+/Users/zagulkirill/Projects/rec_tree/rec_tree/obj/Debug/netcoreapp3.1/rec_tree.AssemblyInfo.cs
+/Users/zagulkirill/Projects/rec_tree/rec_tree/obj/Debug/netcoreapp3.1/rec_tree.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Projects/rec_tree/rec_tree/obj/Debug/netcoreapp3.1/rec_tree.dll
+/Users/zagulkirill/Projects/rec_tree/rec_tree/obj/Debug/netcoreapp3.1/rec_tree.pdb
+/Users/zagulkirill/Projects/rec_tree/rec_tree/obj/Debug/netcoreapp3.1/rec_tree.genruntimeconfig.cache

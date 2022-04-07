@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1RWkOOh+WEbuSyRB5inznBUpjJ8BfCCF349w62kP/D8ist/5d4BfkjClH7Il4Arp2d5pTCb7l9fOvyICM+ozHQ==",
+  "success": true,
+  "projectFilePath": "/Users/zagulkirill/Desktop/c#/Graphes/Graphes/Graphes.csproj",
+  "expectedPackageFiles": [
+    "/Users/zagulkirill/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

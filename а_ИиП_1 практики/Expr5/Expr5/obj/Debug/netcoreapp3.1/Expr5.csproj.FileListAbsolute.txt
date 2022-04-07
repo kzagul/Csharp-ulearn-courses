@@ -1,0 +1,12 @@
+/Users/zagulkirill/Desktop/c#/Expr5/Expr5/bin/Debug/netcoreapp3.1/Expr5.deps.json
+/Users/zagulkirill/Desktop/c#/Expr5/Expr5/bin/Debug/netcoreapp3.1/Expr5.runtimeconfig.json
+/Users/zagulkirill/Desktop/c#/Expr5/Expr5/bin/Debug/netcoreapp3.1/Expr5.runtimeconfig.dev.json
+/Users/zagulkirill/Desktop/c#/Expr5/Expr5/bin/Debug/netcoreapp3.1/Expr5.dll
+/Users/zagulkirill/Desktop/c#/Expr5/Expr5/bin/Debug/netcoreapp3.1/Expr5.pdb
+/Users/zagulkirill/Desktop/c#/Expr5/Expr5/obj/Debug/netcoreapp3.1/Expr5.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/c#/Expr5/Expr5/obj/Debug/netcoreapp3.1/Expr5.AssemblyInfoInputs.cache
+/Users/zagulkirill/Desktop/c#/Expr5/Expr5/obj/Debug/netcoreapp3.1/Expr5.AssemblyInfo.cs
+/Users/zagulkirill/Desktop/c#/Expr5/Expr5/obj/Debug/netcoreapp3.1/Expr5.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Desktop/c#/Expr5/Expr5/obj/Debug/netcoreapp3.1/Expr5.dll
+/Users/zagulkirill/Desktop/c#/Expr5/Expr5/obj/Debug/netcoreapp3.1/Expr5.pdb
+/Users/zagulkirill/Desktop/c#/Expr5/Expr5/obj/Debug/netcoreapp3.1/Expr5.genruntimeconfig.cache

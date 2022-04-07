@@ -1,0 +1,12 @@
+/Users/zagulkirill/Desktop/c#/expr3/expr3/bin/Debug/netcoreapp3.1/expr3.deps.json
+/Users/zagulkirill/Desktop/c#/expr3/expr3/bin/Debug/netcoreapp3.1/expr3.runtimeconfig.json
+/Users/zagulkirill/Desktop/c#/expr3/expr3/bin/Debug/netcoreapp3.1/expr3.runtimeconfig.dev.json
+/Users/zagulkirill/Desktop/c#/expr3/expr3/bin/Debug/netcoreapp3.1/expr3.dll
+/Users/zagulkirill/Desktop/c#/expr3/expr3/bin/Debug/netcoreapp3.1/expr3.pdb
+/Users/zagulkirill/Desktop/c#/expr3/expr3/obj/Debug/netcoreapp3.1/expr3.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/c#/expr3/expr3/obj/Debug/netcoreapp3.1/expr3.AssemblyInfoInputs.cache
+/Users/zagulkirill/Desktop/c#/expr3/expr3/obj/Debug/netcoreapp3.1/expr3.AssemblyInfo.cs
+/Users/zagulkirill/Desktop/c#/expr3/expr3/obj/Debug/netcoreapp3.1/expr3.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Desktop/c#/expr3/expr3/obj/Debug/netcoreapp3.1/expr3.dll
+/Users/zagulkirill/Desktop/c#/expr3/expr3/obj/Debug/netcoreapp3.1/expr3.pdb
+/Users/zagulkirill/Desktop/c#/expr3/expr3/obj/Debug/netcoreapp3.1/expr3.genruntimeconfig.cache

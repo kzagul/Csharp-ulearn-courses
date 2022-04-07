@@ -1,0 +1,12 @@
+/Users/zagulkirill/Projects/ulearn1/ulearn1/bin/Debug/netcoreapp3.1/ulearn1.deps.json
+/Users/zagulkirill/Projects/ulearn1/ulearn1/bin/Debug/netcoreapp3.1/ulearn1.runtimeconfig.json
+/Users/zagulkirill/Projects/ulearn1/ulearn1/bin/Debug/netcoreapp3.1/ulearn1.runtimeconfig.dev.json
+/Users/zagulkirill/Projects/ulearn1/ulearn1/bin/Debug/netcoreapp3.1/ulearn1.dll
+/Users/zagulkirill/Projects/ulearn1/ulearn1/bin/Debug/netcoreapp3.1/ulearn1.pdb
+/Users/zagulkirill/Projects/ulearn1/ulearn1/obj/Debug/netcoreapp3.1/ulearn1.csprojAssemblyReference.cache
+/Users/zagulkirill/Projects/ulearn1/ulearn1/obj/Debug/netcoreapp3.1/ulearn1.AssemblyInfoInputs.cache
+/Users/zagulkirill/Projects/ulearn1/ulearn1/obj/Debug/netcoreapp3.1/ulearn1.AssemblyInfo.cs
+/Users/zagulkirill/Projects/ulearn1/ulearn1/obj/Debug/netcoreapp3.1/ulearn1.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Projects/ulearn1/ulearn1/obj/Debug/netcoreapp3.1/ulearn1.dll
+/Users/zagulkirill/Projects/ulearn1/ulearn1/obj/Debug/netcoreapp3.1/ulearn1.pdb
+/Users/zagulkirill/Projects/ulearn1/ulearn1/obj/Debug/netcoreapp3.1/ulearn1.genruntimeconfig.cache

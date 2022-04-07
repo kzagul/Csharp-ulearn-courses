@@ -1,0 +1,24 @@
+/Users/zagulkirill/Desktop/c#/1_решение_практика/1_решение_практика/bin/Debug/netcoreapp3.1/1_решение_практика.deps.json
+/Users/zagulkirill/Desktop/c#/1_решение_практика/1_решение_практика/bin/Debug/netcoreapp3.1/1_решение_практика.runtimeconfig.json
+/Users/zagulkirill/Desktop/c#/1_решение_практика/1_решение_практика/bin/Debug/netcoreapp3.1/1_решение_практика.runtimeconfig.dev.json
+/Users/zagulkirill/Desktop/c#/1_решение_практика/1_решение_практика/bin/Debug/netcoreapp3.1/1_решение_практика.dll
+/Users/zagulkirill/Desktop/c#/1_решение_практика/1_решение_практика/bin/Debug/netcoreapp3.1/1_решение_практика.pdb
+/Users/zagulkirill/Desktop/c#/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/c#/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.AssemblyInfoInputs.cache
+/Users/zagulkirill/Desktop/c#/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.AssemblyInfo.cs
+/Users/zagulkirill/Desktop/c#/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Desktop/c#/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.dll
+/Users/zagulkirill/Desktop/c#/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.pdb
+/Users/zagulkirill/Desktop/c#/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.genruntimeconfig.cache
+/Users/kirillzagul/Desktop/c#/а_ИиП_1 практики/1_решение_практика/1_решение_практика/bin/Debug/netcoreapp3.1/1_решение_практика.deps.json
+/Users/kirillzagul/Desktop/c#/а_ИиП_1 практики/1_решение_практика/1_решение_практика/bin/Debug/netcoreapp3.1/1_решение_практика.runtimeconfig.json
+/Users/kirillzagul/Desktop/c#/а_ИиП_1 практики/1_решение_практика/1_решение_практика/bin/Debug/netcoreapp3.1/1_решение_практика.runtimeconfig.dev.json
+/Users/kirillzagul/Desktop/c#/а_ИиП_1 практики/1_решение_практика/1_решение_практика/bin/Debug/netcoreapp3.1/1_решение_практика.dll
+/Users/kirillzagul/Desktop/c#/а_ИиП_1 практики/1_решение_практика/1_решение_практика/bin/Debug/netcoreapp3.1/1_решение_практика.pdb
+/Users/kirillzagul/Desktop/c#/а_ИиП_1 практики/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.csproj.AssemblyReference.cache
+/Users/kirillzagul/Desktop/c#/а_ИиП_1 практики/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.AssemblyInfoInputs.cache
+/Users/kirillzagul/Desktop/c#/а_ИиП_1 практики/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.AssemblyInfo.cs
+/Users/kirillzagul/Desktop/c#/а_ИиП_1 практики/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.csproj.CoreCompileInputs.cache
+/Users/kirillzagul/Desktop/c#/а_ИиП_1 практики/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.dll
+/Users/kirillzagul/Desktop/c#/а_ИиП_1 практики/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.pdb
+/Users/kirillzagul/Desktop/c#/а_ИиП_1 практики/1_решение_практика/1_решение_практика/obj/Debug/netcoreapp3.1/1_решение_практика.genruntimeconfig.cache

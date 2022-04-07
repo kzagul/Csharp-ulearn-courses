@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\Tickets\obj\Debug\Tickets.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Tickets\bin\Debug\Tickets.exe.config
+\\Mac\Home\Desktop\Tickets\bin\Debug\Tickets.exe
+\\Mac\Home\Desktop\Tickets\bin\Debug\Tickets.pdb
+\\Mac\Home\Desktop\Tickets\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\Tickets\bin\Debug\nunitlite.dll
+\\Mac\Home\Desktop\Tickets\obj\Debug\Tickets.csproj.CopyComplete
+\\Mac\Home\Desktop\Tickets\obj\Debug\Tickets.exe
+\\Mac\Home\Desktop\Tickets\obj\Debug\Tickets.pdb
+\\Mac\Home\Desktop\Tickets\bin\Debug\NUnit3.TestAdapter.dll
+\\Mac\Home\Desktop\Tickets\bin\Debug\NUnit3.TestAdapter.pdb
+\\Mac\Home\Desktop\Tickets\bin\Debug\nunit.engine.dll
+\\Mac\Home\Desktop\Tickets\bin\Debug\nunit.engine.api.dll
+\\Mac\Home\Desktop\Tickets\bin\Debug\nunit.engine.core.dll
+\\Mac\Home\Desktop\Tickets\bin\Debug\testcentric.engine.metadata.dll
+\\Mac\Home\Desktop\Tickets\bin\Debug\nunit.framework.xml

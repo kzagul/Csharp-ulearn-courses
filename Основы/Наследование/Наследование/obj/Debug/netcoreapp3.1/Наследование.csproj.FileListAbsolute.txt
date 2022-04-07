@@ -1,0 +1,12 @@
+/Users/zagulkirill/Desktop/c#/Наследование/Наследование/obj/Debug/netcoreapp3.1/Наследование.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/c#/Наследование/Наследование/obj/Debug/netcoreapp3.1/Наследование.AssemblyInfoInputs.cache
+/Users/zagulkirill/Desktop/c#/Наследование/Наследование/obj/Debug/netcoreapp3.1/Наследование.AssemblyInfo.cs
+/Users/zagulkirill/Desktop/c#/Наследование/Наследование/obj/Debug/netcoreapp3.1/Наследование.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Desktop/c#/Наследование/Наследование/bin/Debug/netcoreapp3.1/Наследование.deps.json
+/Users/zagulkirill/Desktop/c#/Наследование/Наследование/bin/Debug/netcoreapp3.1/Наследование.runtimeconfig.json
+/Users/zagulkirill/Desktop/c#/Наследование/Наследование/bin/Debug/netcoreapp3.1/Наследование.runtimeconfig.dev.json
+/Users/zagulkirill/Desktop/c#/Наследование/Наследование/bin/Debug/netcoreapp3.1/Наследование.dll
+/Users/zagulkirill/Desktop/c#/Наследование/Наследование/bin/Debug/netcoreapp3.1/Наследование.pdb
+/Users/zagulkirill/Desktop/c#/Наследование/Наследование/obj/Debug/netcoreapp3.1/Наследование.dll
+/Users/zagulkirill/Desktop/c#/Наследование/Наследование/obj/Debug/netcoreapp3.1/Наследование.pdb
+/Users/zagulkirill/Desktop/c#/Наследование/Наследование/obj/Debug/netcoreapp3.1/Наследование.genruntimeconfig.cache

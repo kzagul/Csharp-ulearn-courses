@@ -1,0 +1,12 @@
+/Users/zagulkirill/Projects/PracticeVectors/PracticeVectors/bin/Debug/netcoreapp3.1/GeometryTasks.deps.json
+/Users/zagulkirill/Projects/PracticeVectors/PracticeVectors/bin/Debug/netcoreapp3.1/GeometryTasks.runtimeconfig.json
+/Users/zagulkirill/Projects/PracticeVectors/PracticeVectors/bin/Debug/netcoreapp3.1/GeometryTasks.runtimeconfig.dev.json
+/Users/zagulkirill/Projects/PracticeVectors/PracticeVectors/bin/Debug/netcoreapp3.1/GeometryTasks.dll
+/Users/zagulkirill/Projects/PracticeVectors/PracticeVectors/bin/Debug/netcoreapp3.1/GeometryTasks.pdb
+/Users/zagulkirill/Projects/PracticeVectors/PracticeVectors/obj/Debug/netcoreapp3.1/GeometryTasks.csprojAssemblyReference.cache
+/Users/zagulkirill/Projects/PracticeVectors/PracticeVectors/obj/Debug/netcoreapp3.1/GeometryTasks.AssemblyInfoInputs.cache
+/Users/zagulkirill/Projects/PracticeVectors/PracticeVectors/obj/Debug/netcoreapp3.1/GeometryTasks.AssemblyInfo.cs
+/Users/zagulkirill/Projects/PracticeVectors/PracticeVectors/obj/Debug/netcoreapp3.1/GeometryTasks.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Projects/PracticeVectors/PracticeVectors/obj/Debug/netcoreapp3.1/GeometryTasks.dll
+/Users/zagulkirill/Projects/PracticeVectors/PracticeVectors/obj/Debug/netcoreapp3.1/GeometryTasks.pdb
+/Users/zagulkirill/Projects/PracticeVectors/PracticeVectors/obj/Debug/netcoreapp3.1/GeometryTasks.genruntimeconfig.cache

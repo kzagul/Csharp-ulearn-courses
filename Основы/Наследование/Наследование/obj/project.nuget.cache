@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XjMNYlXM9lNquvvnjuEk7IDFCpSnNpXUxlGTNmeGD+8GoUrhCMEcVSqIKyqN7VIqQS71d9M6JuoQmn/XIZowIg==",
+  "success": true,
+  "projectFilePath": "/Users/zagulkirill/Desktop/c#/Наследование/Наследование/Наследование.csproj",
+  "expectedPackageFiles": [
+    "/Users/zagulkirill/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

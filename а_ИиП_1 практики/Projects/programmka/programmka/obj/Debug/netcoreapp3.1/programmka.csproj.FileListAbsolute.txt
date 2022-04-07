@@ -1,0 +1,12 @@
+/Users/zagulkirill/Projects/programmka/programmka/bin/Debug/netcoreapp3.1/programmka.deps.json
+/Users/zagulkirill/Projects/programmka/programmka/bin/Debug/netcoreapp3.1/programmka.runtimeconfig.json
+/Users/zagulkirill/Projects/programmka/programmka/bin/Debug/netcoreapp3.1/programmka.runtimeconfig.dev.json
+/Users/zagulkirill/Projects/programmka/programmka/bin/Debug/netcoreapp3.1/programmka.dll
+/Users/zagulkirill/Projects/programmka/programmka/bin/Debug/netcoreapp3.1/programmka.pdb
+/Users/zagulkirill/Projects/programmka/programmka/obj/Debug/netcoreapp3.1/programmka.csprojAssemblyReference.cache
+/Users/zagulkirill/Projects/programmka/programmka/obj/Debug/netcoreapp3.1/programmka.AssemblyInfoInputs.cache
+/Users/zagulkirill/Projects/programmka/programmka/obj/Debug/netcoreapp3.1/programmka.AssemblyInfo.cs
+/Users/zagulkirill/Projects/programmka/programmka/obj/Debug/netcoreapp3.1/programmka.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Projects/programmka/programmka/obj/Debug/netcoreapp3.1/programmka.dll
+/Users/zagulkirill/Projects/programmka/programmka/obj/Debug/netcoreapp3.1/programmka.pdb
+/Users/zagulkirill/Projects/programmka/programmka/obj/Debug/netcoreapp3.1/programmka.genruntimeconfig.cache

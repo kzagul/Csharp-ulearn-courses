@@ -1,0 +1,12 @@
+/Users/zagulkirill/Projects/цацвыаыа/цацвыаыа/bin/Debug/netcoreapp3.1/цацвыаыа.deps.json
+/Users/zagulkirill/Projects/цацвыаыа/цацвыаыа/bin/Debug/netcoreapp3.1/цацвыаыа.runtimeconfig.json
+/Users/zagulkirill/Projects/цацвыаыа/цацвыаыа/bin/Debug/netcoreapp3.1/цацвыаыа.runtimeconfig.dev.json
+/Users/zagulkirill/Projects/цацвыаыа/цацвыаыа/bin/Debug/netcoreapp3.1/цацвыаыа.dll
+/Users/zagulkirill/Projects/цацвыаыа/цацвыаыа/bin/Debug/netcoreapp3.1/цацвыаыа.pdb
+/Users/zagulkirill/Projects/цацвыаыа/цацвыаыа/obj/Debug/netcoreapp3.1/цацвыаыа.csprojAssemblyReference.cache
+/Users/zagulkirill/Projects/цацвыаыа/цацвыаыа/obj/Debug/netcoreapp3.1/цацвыаыа.AssemblyInfoInputs.cache
+/Users/zagulkirill/Projects/цацвыаыа/цацвыаыа/obj/Debug/netcoreapp3.1/цацвыаыа.AssemblyInfo.cs
+/Users/zagulkirill/Projects/цацвыаыа/цацвыаыа/obj/Debug/netcoreapp3.1/цацвыаыа.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Projects/цацвыаыа/цацвыаыа/obj/Debug/netcoreapp3.1/цацвыаыа.dll
+/Users/zagulkirill/Projects/цацвыаыа/цацвыаыа/obj/Debug/netcoreapp3.1/цацвыаыа.pdb
+/Users/zagulkirill/Projects/цацвыаыа/цацвыаыа/obj/Debug/netcoreapp3.1/цацвыаыа.genruntimeconfig.cache

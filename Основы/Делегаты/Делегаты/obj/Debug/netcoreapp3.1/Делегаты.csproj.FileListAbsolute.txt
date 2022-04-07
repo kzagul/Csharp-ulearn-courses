@@ -1,0 +1,12 @@
+/Users/zagulkirill/Desktop/c#/Делегаты/Делегаты/bin/Debug/netcoreapp3.1/Делегаты.deps.json
+/Users/zagulkirill/Desktop/c#/Делегаты/Делегаты/bin/Debug/netcoreapp3.1/Делегаты.runtimeconfig.json
+/Users/zagulkirill/Desktop/c#/Делегаты/Делегаты/bin/Debug/netcoreapp3.1/Делегаты.runtimeconfig.dev.json
+/Users/zagulkirill/Desktop/c#/Делегаты/Делегаты/bin/Debug/netcoreapp3.1/Делегаты.dll
+/Users/zagulkirill/Desktop/c#/Делегаты/Делегаты/bin/Debug/netcoreapp3.1/Делегаты.pdb
+/Users/zagulkirill/Desktop/c#/Делегаты/Делегаты/obj/Debug/netcoreapp3.1/Делегаты.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/c#/Делегаты/Делегаты/obj/Debug/netcoreapp3.1/Делегаты.AssemblyInfoInputs.cache
+/Users/zagulkirill/Desktop/c#/Делегаты/Делегаты/obj/Debug/netcoreapp3.1/Делегаты.AssemblyInfo.cs
+/Users/zagulkirill/Desktop/c#/Делегаты/Делегаты/obj/Debug/netcoreapp3.1/Делегаты.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Desktop/c#/Делегаты/Делегаты/obj/Debug/netcoreapp3.1/Делегаты.dll
+/Users/zagulkirill/Desktop/c#/Делегаты/Делегаты/obj/Debug/netcoreapp3.1/Делегаты.pdb
+/Users/zagulkirill/Desktop/c#/Делегаты/Делегаты/obj/Debug/netcoreapp3.1/Делегаты.genruntimeconfig.cache

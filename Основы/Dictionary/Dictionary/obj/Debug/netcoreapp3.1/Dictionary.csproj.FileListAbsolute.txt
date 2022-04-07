@@ -1,0 +1,15 @@
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.AssemblyInfoInputs.cache
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.AssemblyInfo.cs
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.deps.json
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.runtimeconfig.json
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.runtimeconfig.dev.json
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.dll
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.pdb
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.dll
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.pdb
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.genruntimeconfig.cache
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/bin/Debug/netcoreapp3.1/Kvur.dll
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/bin/Debug/netcoreapp3.1/Kvur.pdb
+/Users/zagulkirill/Desktop/c#/Dictionary/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.csproj.CopyComplete

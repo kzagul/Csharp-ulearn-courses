@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\DiskTree\bin\Debug\NUnit3.TestAdapter.dll
+\\Mac\Home\Desktop\DiskTree\bin\Debug\NUnit3.TestAdapter.pdb
+\\Mac\Home\Desktop\DiskTree\bin\Debug\nunit.engine.dll
+\\Mac\Home\Desktop\DiskTree\bin\Debug\nunit.engine.api.dll
+\\Mac\Home\Desktop\DiskTree\bin\Debug\nunit.engine.core.dll
+\\Mac\Home\Desktop\DiskTree\bin\Debug\testcentric.engine.metadata.dll
+\\Mac\Home\Desktop\DiskTree\bin\Debug\DiskTree.exe.config
+\\Mac\Home\Desktop\DiskTree\bin\Debug\DiskTree.exe
+\\Mac\Home\Desktop\DiskTree\bin\Debug\DiskTree.pdb
+\\Mac\Home\Desktop\DiskTree\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\DiskTree\bin\Debug\nunitlite.dll
+\\Mac\Home\Desktop\DiskTree\bin\Debug\nunit.framework.xml
+\\Mac\Home\Desktop\DiskTree\obj\Debug\DiskTree.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\DiskTree\obj\Debug\DiskTree.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DiskTree\obj\Debug\DiskTree.csproj.CopyComplete
+\\Mac\Home\Desktop\DiskTree\obj\Debug\DiskTree.exe
+\\Mac\Home\Desktop\DiskTree\obj\Debug\DiskTree.pdb

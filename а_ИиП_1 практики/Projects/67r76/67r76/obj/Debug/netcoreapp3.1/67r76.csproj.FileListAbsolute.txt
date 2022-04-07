@@ -1,0 +1,4 @@
+/Users/zagulkirill/Projects/67r76/67r76/obj/Debug/netcoreapp3.1/67r76.csprojAssemblyReference.cache
+/Users/zagulkirill/Projects/67r76/67r76/obj/Debug/netcoreapp3.1/67r76.AssemblyInfoInputs.cache
+/Users/zagulkirill/Projects/67r76/67r76/obj/Debug/netcoreapp3.1/67r76.AssemblyInfo.cs
+/Users/zagulkirill/Projects/67r76/67r76/obj/Debug/netcoreapp3.1/67r76.csproj.CoreCompileInputs.cache

@@ -1,0 +1,22 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>60</x><y>195</y><w>170</w><h>90</h></coordinates><panel_attributes>User
+-
++ name: string
++ id: int
+-
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>60</x><y>385</y><w>180</w><h>90</h></coordinates><panel_attributes>Manager
+-
++ Company: string
+-</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>130</x><y>275</y><w>30</w><h>130</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;110</additional_attributes></element><element><id>Text</id><coordinates><x>180</x><y>325</y><w>100</w><h>30</h></coordinates><panel_attributes>Наследование</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>410</x><y>190</y><w>130</w><h>50</h></coordinates><panel_attributes>Body
+-
++ Position: Vector3
+-
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>260</x><y>500</y><w>420</w><h>90</h></coordinates><panel_attributes>Cylinder
+-
++ &lt;&lt;get&gt;&gt; SizeZ : double
++ &lt;&lt;get&gt;&gt; Radius : double
+-
+&lt;&lt;constructor&gt;&gt; + Cylinder(position: Vector3, sizeZ: double, radius: double)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>400</x><y>390</y><w>310</w><h>70</h></coordinates><panel_attributes>Ball
+-
++ Radius: double
+-
+&lt;&lt;constructor&gt;&gt; + Ball(position: Vector3, radius: double)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>300</x><y>230</y><w>200</w><h>290</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>180;10;170;100;90;100;10;270</additional_attributes></element><element><id>Relation</id><coordinates><x>460</x><y>230</y><w>120</w><h>180</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>20;10;10;100;100;100;100;160</additional_attributes></element></diagram>

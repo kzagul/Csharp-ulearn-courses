@@ -1,0 +1,12 @@
+/Users/zagulkirill/Desktop/c#/Interface_IEnumerable/Interface_IEnumerable/bin/Debug/netcoreapp3.1/Interface_IEnumerable.deps.json
+/Users/zagulkirill/Desktop/c#/Interface_IEnumerable/Interface_IEnumerable/bin/Debug/netcoreapp3.1/Interface_IEnumerable.runtimeconfig.json
+/Users/zagulkirill/Desktop/c#/Interface_IEnumerable/Interface_IEnumerable/bin/Debug/netcoreapp3.1/Interface_IEnumerable.runtimeconfig.dev.json
+/Users/zagulkirill/Desktop/c#/Interface_IEnumerable/Interface_IEnumerable/bin/Debug/netcoreapp3.1/Interface_IEnumerable.dll
+/Users/zagulkirill/Desktop/c#/Interface_IEnumerable/Interface_IEnumerable/bin/Debug/netcoreapp3.1/Interface_IEnumerable.pdb
+/Users/zagulkirill/Desktop/c#/Interface_IEnumerable/Interface_IEnumerable/obj/Debug/netcoreapp3.1/Interface_IEnumerable.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/c#/Interface_IEnumerable/Interface_IEnumerable/obj/Debug/netcoreapp3.1/Interface_IEnumerable.AssemblyInfoInputs.cache
+/Users/zagulkirill/Desktop/c#/Interface_IEnumerable/Interface_IEnumerable/obj/Debug/netcoreapp3.1/Interface_IEnumerable.AssemblyInfo.cs
+/Users/zagulkirill/Desktop/c#/Interface_IEnumerable/Interface_IEnumerable/obj/Debug/netcoreapp3.1/Interface_IEnumerable.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Desktop/c#/Interface_IEnumerable/Interface_IEnumerable/obj/Debug/netcoreapp3.1/Interface_IEnumerable.dll
+/Users/zagulkirill/Desktop/c#/Interface_IEnumerable/Interface_IEnumerable/obj/Debug/netcoreapp3.1/Interface_IEnumerable.pdb
+/Users/zagulkirill/Desktop/c#/Interface_IEnumerable/Interface_IEnumerable/obj/Debug/netcoreapp3.1/Interface_IEnumerable.genruntimeconfig.cache

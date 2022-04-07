@@ -1,0 +1,12 @@
+/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/bin/Debug/netcoreapp3.1/учусь_ООП.deps.json
+/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/bin/Debug/netcoreapp3.1/учусь_ООП.runtimeconfig.json
+/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/bin/Debug/netcoreapp3.1/учусь_ООП.runtimeconfig.dev.json
+/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/bin/Debug/netcoreapp3.1/учусь_ООП.dll
+/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/bin/Debug/netcoreapp3.1/учусь_ООП.pdb
+/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/obj/Debug/netcoreapp3.1/учусь_ООП.csprojAssemblyReference.cache
+/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/obj/Debug/netcoreapp3.1/учусь_ООП.AssemblyInfoInputs.cache
+/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/obj/Debug/netcoreapp3.1/учусь_ООП.AssemblyInfo.cs
+/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/obj/Debug/netcoreapp3.1/учусь_ООП.csproj.CoreCompileInputs.cache
+/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/obj/Debug/netcoreapp3.1/учусь_ООП.dll
+/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/obj/Debug/netcoreapp3.1/учусь_ООП.pdb
+/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/obj/Debug/netcoreapp3.1/учусь_ООП.genruntimeconfig.cache

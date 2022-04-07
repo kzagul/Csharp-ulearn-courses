@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEBphDmHnAb5NHDfjJKEIvC6MyavTmlBeenu6kWRn/H8EYS6F+A07GL1F0Pw/Wc8XuyDVA9DAUxRVCqiOM9OGw==",
+  "success": true,
+  "projectFilePath": "/Users/zagulkirill/Desktop/c#/учусь_ООП/учусь_ООП/учусь_ООП.csproj",
+  "expectedPackageFiles": [
+    "/Users/zagulkirill/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
